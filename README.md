@@ -129,9 +129,10 @@ Tutte le 4 pagine della dashboard seguono un layout basato su coordinate pixel-p
 
 ## 📈 5. Dashboard & Analisi Strategica (Pagina per Pagina)
 
-![Page 1](/Images/Page%201.png)
 
 ### 📄 Pagina 1 — Sales & Revenue (*Executive Sales Overview*)
+
+![Page 1](/Images/Page%201.png)
 
 **KPI principali**
 
@@ -169,9 +170,11 @@ L'andamento mensile del fatturato racconta un'evoluzione in due atti:
 
 ---
 
-![Page 2](/Images/Page%202.png)
+
 
 ### 📄 Pagina 2 — Logistica & Spedizioni (*Executive Logistics Overview*)
+
+![Page 2](/Images/Page%202.png)
 
 **KPI principali**
 
@@ -222,9 +225,11 @@ Correlazione diretta e proporzionale tra tempi di spedizione e incidenza dei cos
 
 ---
 
-![Page 3](/Images/Page%203.png)
+
 
 ### 📄 Pagina 3 — Prodotti, Pagamenti & Clienti (*Products, Payments & Customers*)
+
+![Page 3](/Images/Page%203.png)
 
 **KPI principali**
 
@@ -270,9 +275,11 @@ Le prime 5 categorie generano da sole oltre **$5.4M** — più di un terzo del f
 
 ---
 
-![Page 4](/Images/Page%204.png)
+
 
 ### 📄 Pagina 4 — Recensioni, Soddisfazione e Venditori (*Reviews, Satisfaction & Sellers*)
+
+![Page 4](/Images/Page%204.png)
 
 **KPI principali**
 
